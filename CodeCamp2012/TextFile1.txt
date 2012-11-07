@@ -1,0 +1,7 @@
+﻿http://blogs.msdn.com/b/yaohuang1/archive/2012/08/15/introducing-the-asp-net-web-api-help-page-preview.aspx
+http://www.youtube.com/watch?feature=player_embedded&v=3Sr9KWrrUP4#!
+http://nuget.org/packages/Microsoft.AspNet.WebApi.HelpPage
+http://blogs.msdn.com/b/yaohuang1/archive/2012/05/21/asp-net-web-api-generating-a-web-api-help-page-using-apiexplorer.aspx
+http://codebetter.com/johnvpetersen/2012/08/01/documenting-your-asp-net-web-apis/
+http://answers.oreilly.com/topic/1390-how-to-document-restful-web-services/
+http://blog.programmableweb.com/2010/08/12/web-api-documentation-best-practices/
